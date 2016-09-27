@@ -1,5 +1,5 @@
 {
-  "name": "stocker",
+  "name": "stockerApp",
   "private": true,
   "devDependencies": {
     "autoprefixer-core": "^5.2.1",
